@@ -1,3 +1,6 @@
 [submodule "package/luci-app-tailscale"]
 	path = package/luci-app-tailscale
 	url = https://github.com/asvow/luci-app-tailscale
+[submodule "package/luci-app-netspeedtest"]
+	path = package/luci-app-netspeedtest
+	url = https://github.com/muink/luci-app-netspeedtest.git
