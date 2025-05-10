@@ -4,3 +4,6 @@
 [submodule "package/luci-app-netspeedtest"]
 	path = package/luci-app-netspeedtest
 	url = https://github.com/muink/luci-app-netspeedtest.git
+[submodule "package/turboacc/nft-fullcone"]
+	path = package/turboacc/nft-fullcone
+	url = https://github.com/fullcone-nat-nftables/nft-fullcone
